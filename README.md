@@ -7,4 +7,6 @@ This Python code defines a simple number guessing game. Here's the working of th
 3)  Now, the user starts guessing the number, if the number is correct it prints "Your guess is right". If the number is incorrect and attemps > 0 the code gives a hint but if the number is incorrect and attempts = 0 then it prints "You are out of guesses... you lose". The code Terminates.
 
 OUTPUT:
+![Screenshot (2)](https://github.com/Gnanapriya177/TAI-IP/assets/133194111/d3982e43-2097-4a42-bd78-f4800ee4a4cf)
+
 
