@@ -1,5 +1,7 @@
 Task Output and Description is given below:
+
 Level-1_Task-1_Number_Guessing_Name:
+
 Description:
 This Python code defines a simple number guessing game. Here's the working of the code :
 1) A random number between ( 1 to 50 ) is generated using the random.randint(1, 50) function.
