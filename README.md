@@ -62,6 +62,19 @@ OUTPUT:
 
 ![Screenshot (6)](https://github.com/Gnanapriya177/TAI-IP/assets/133194111/61b11901-b107-429c-9c99-b6d21c513872)
 
+Level-3_Task-3_Speech_Recognition:
+
+Description:
+1) Firstly import the library speech_recognition.
+2) We use a function called the Recognizer() to recognize the speech of the user.
+3) The output is printed on the screen and if audio can't be recognized then an error occurs. The code terminates.
+
+OUTPUT:
+
+![Screenshot (7)](https://github.com/Gnanapriya177/TAI-IP/assets/133194111/31b2490f-0b2f-4ac9-a692-4943cd15b2b4)
+
+
+
 
 
 
