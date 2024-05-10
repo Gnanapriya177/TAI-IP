@@ -28,6 +28,17 @@ OUTPUT:
 Level-2_Task-1_Credit_Card_Validator:
 
 Description:
+This Python code validates the credit card number taken from the user input and produce output as valid or invalid credit card.
+1) Take the input from the user input and remove all the '-' or ' '.
+2) Add all the digits in the odd places from right to the left store it as odd_sum.
+3) Double every second digit from right ot left, If result is two digit number, add the two digit number together to get a single digit and store it as even_sum.
+4) Sum the totals of odd_sum and even_sum.
+5) If sum is divisible by 10, then the output prints as credit card is valid else it prints as credit is invalid.
+
+OUTPUT:
+
+![Screenshot (4)](https://github.com/Gnanapriya177/TAI-IP/assets/133194111/efe166f7-82e1-4aba-9ad8-38fa1efd4674)
+
 
 
 
