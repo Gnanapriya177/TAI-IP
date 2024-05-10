@@ -51,6 +51,18 @@ OUTPUT:
 
 ![Screenshot (5)](https://github.com/Gnanapriya177/TAI-IP/assets/133194111/a2596b67-9715-4907-b3bf-195ddb298bfc)
 
+Level-3_Task-2_Payment_Application:
+
+Description:
+The code defines a payment function that simulates processing of the payment and prints the output.
+1) The main_function() prompts the user to enter the payment amount.
+2) If the amount entered is not a positive integer a value error is raised and the payment fails, otherwise the payment is successful and the code terminates.
+
+OUTPUT:
+
+![Screenshot (6)](https://github.com/Gnanapriya177/TAI-IP/assets/133194111/61b11901-b107-429c-9c99-b6d21c513872)
+
+
 
 
 
