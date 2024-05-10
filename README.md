@@ -42,6 +42,14 @@ OUTPUT:
 Level-2_Task-2_Location_Finder:
 
 Description:
+This code defines a Python function named location_of_the_user that uses the Nominatim class from the geopy.geocoders module to get the GPS coordinates of a user's location based on their input (e.g., city, country).
+1) Import the Necessary Libraries,here the code imports the Nominatim class from the geopy.geocoders module.
+2) The location_of_the_user function is defined to fetch the user's GPS coordinates. Within this function,A Nominatim object named geolocator is created with a user-defined user agent "location_app", A while loop is used to continuously prompt the user to enter their location until a valid location is provided. Inside the loop, the user is asked to enter their location (e.g., city, country), and the geolocator.geocode method is used to get the GPS coordinates based on this input.
+3) The if name == "main": block is used to call the location_of_the_user function when the script is executed directly. This ensures that the code inside the if block is executed only when the script is run as the main program. The code then, terminates.
+
+OUTPUT:
+
+![Screenshot (5)](https://github.com/Gnanapriya177/TAI-IP/assets/133194111/a2596b67-9715-4907-b3bf-195ddb298bfc)
 
 
 
